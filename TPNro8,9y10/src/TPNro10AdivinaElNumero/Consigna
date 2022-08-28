@@ -1,0 +1,16 @@
+TP Nro 10: Adivinar el número
+En este desafío se trata de crear un programa en JAVA que haga que el usuario deba de adivinar en el menor número de intentos posibles un número entero aleatorio entre 1 y 100 generado por el programa. 
+
+Al ejecutar el programa, este generará un número aleatorio entre 1 y 100 que el usuario no sabrá. 
+
+A continuación, el programa pedirá la introducción de un número entero entre 1 y 100 por consola. 
+
+Si el número introducido por el usuario es mayor que el número aleatorio generado por el programa, saldrá un mensaje por consola indicando que el número es menor. 
+
+Si el número introducido por el usuario es menor que el número aleatorio generado por el programa, saldrá un mensaje por consola indicando que el número es mayor. 
+
+El proceso se repetirá indefinidamente hasta que averigüemos cuál es el número generado aleatoriamente por el programa. 
+
+Una vez acertado, debe imprimir en consola un mensaje de “Correcto!”. 
+
+El programa debe de indicar el nº de intentos consumidos para acertar con el número aleatorio y luego de que el usuario ingrese el número se debe mostrar el número generado. 
