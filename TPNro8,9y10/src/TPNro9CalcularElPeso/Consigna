@@ -1,0 +1,10 @@
+TP Nro 09: calcular el peso
+Debes crear un programa que permita calcular el peso ideal de una persona teniendo en cuenta lo siguiente:
+
+Si la persona es una mujer, el peso ideal será igual a la altura en cm -120
+Si la persona es un hombre, el peso ideal será igual a la altura en cm -110
+El programa pedirá al usuario dos datos:
+
+La altura en cm
+El género, pudiendo ser este hombre o mujer.
+En función de los datos introducidos, el programa imprimirá en consola el peso ideal.
